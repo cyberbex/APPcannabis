@@ -5,7 +5,10 @@ mqtt_broker_configs = {
     "KEPPALIVE": 60,
     "USERNAME":'xinuxccp',
     "PASSWORD":'bWpTqG0Nh5GX',
-    "TOPIC": "/messages",
-    "MSG": "menssagemRecebida"
+    "TOPIC_TEMP": "Temperatura",
+    "TOPIC_UMIDADE":"Umidade",
+    "MSG": "menssagemRecebida",
+    "Temperatura": "1000",
+    "Umidade": "1000"
 
 }
